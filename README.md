@@ -1,3 +1,3 @@
-PowerBI scales data analysis
-Decision making 
+PowerBI scales data analysis,
+Decision making,
 Grade book 
